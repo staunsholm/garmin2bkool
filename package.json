@@ -1,0 +1,7 @@
+{
+  "name": "garmin2bkool",
+  "version": "0.0.1",
+  "dependencies": {
+    "xml": "^1.0.0"
+  }
+}
